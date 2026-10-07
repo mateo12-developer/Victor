@@ -1,0 +1,436 @@
+    1  git
+    2  clear
+    3  git
+    4  clear
+    5  system
+    6  clear
+    7  cd
+    8  cd vanessa
+    9  clear
+   10  cd sena df
+   11  clear
+   12  git config --
+   13  git config -- local
+   14  clear
+   15  git config -- local
+   16  clear
+   17  gitconfig--local
+   18  clear
+   19  cmd
+   20  git config --global user.email correo-electronico
+   21  clear
+   22  git config --global user.email "pabonbedoyamateo@gmaoil.com"
+   23  clear 1,2,3
+   24  clear
+   25  git config --global user.email "pabonbedoyamateo@gmaoil.com"
+   26  git config --global user.email
+   27  git config --global user.email "pabonbedoyamateo@gmail.com"
+   28  git config --global user.email
+   29  git config --global user.name "Mateo"
+   30  git config --global user.name
+   31  git config --globl list
+   32  clear
+   33  git config --globl --list
+   34  clear
+   35  git config --globl --list
+   36  clear
+   37  git config --global --list
+   38  git config --global core.edit "code --wait"
+   39  git config --global core.edit
+   40  git config --global color.ui true
+   41  git config --global color.ui 
+   42  clear
+   43  git config --global core.autocrlf true
+   44  git config --global core.autocrlf
+   45  cd sena df
+   46  clear
+   47  cd C:/
+   48  ls
+   49  cd santiago
+   50  C:\Users\pabon\OneDrive\Desktop\sena df\santiago
+   51  C:\Users\pabon\Desktop\sena df\santiago
+   52  clear
+   53  cd Desktop
+   54  cd sena df
+   55  cd sena_df
+   56  cd sena_df
+   57  cd C:\Users\pabon\Desktop\sena_df\santiago\git\git_ejemplos
+   58  cd santiago
+   59  cd git
+   60  cd git_ejemplos
+   61  git init
+   62  touch soy-yo.txt
+   63  [200~
+   64  git rm <soy.yo.txt>
+   65  git rm soy-yo.txt
+   66  git rm soy-yo.txt
+   67  rm soy-yo.txt
+   68  touch matias_gaysito.txt
+   69  git help -a
+   70  git mv matias_gaysito.txt matias.txt
+   71  git status
+   72  git add circulo_vicioso.txt 
+   73  |git checkout circulo_vicioso.txt
+   74  git checkout circulo_vicioso.txt
+   75  git init
+   76  cd git_ejemplos
+   77  cd sena_df
+   78  cd desktop
+   79  cd sena_df
+   80  cd santiago
+   81  cd git
+   82  git_ejem
+   83  cd git_ejemplos
+   84  clear
+   85  cd desktop
+   86  cd sena_df/santiago/git
+   87  git_ejemplos
+   88  cd git_ejemplos
+   89  cd rap_y_yerbas
+   90  cd granuja
+   91  echp "granuja es un hp" punto_rojo.txt
+   92  echo "granuja" > punto_rojo.txt
+   93  echo "granuja te amo" > punto_rojo.txt 
+   94  mv granuja granuggio
+   95  mv test features
+   96  mv granuja/granuggio
+   97  mv granuja/ granuggio/
+   98  mv granuja/ granuggio
+   99  mv granuja/ granuggio/
+  100  ..
+  101  cd..
+  102  cd ..
+  103  mv granuja/ granuggio/
+  104  cd granuja
+  105  rmdir punto_rojo.txt
+  106  cd granuja
+  107  cd granuja
+  108  cd granuggio
+  109  rmdir punto_rojo.txt
+  110  rm punto_rojo.txt 
+  111  git finish
+  112  --help
+  113  git --help
+  114  clear
+  115  git status
+  116  git ad
+  117  git add
+  118  git add .
+  119  git status
+  120  git rm --cached colombia_gold.txt
+  121  git status 
+  122  git checkout circulo_vicioso.txt
+  123  git status
+  124  git chekout circulo_vicioso.txt
+  125  git checkout circulo_vicioso.txt
+  126  git checkout circulo_vicioso.txt
+  127  git checkout circulo_vicioso.txt
+  128  git add .
+  129  git status
+  130  git restore circulo_vicioso.txt
+  131  git restore ../../circulo_vicioso.txt
+  132  git checkout colombia_gold.txt
+  133  git status
+  134  git commit
+  135  cd/desktop/sena_df/santiago/git/git_ejemplos/rap_y_yerbas/granuggio
+  136  cd desktop/sena_df/santiago/git/git_ejemplos/rap_y_yerbas/granuggio
+  137  git status
+  138  git commite/
+  139  git commit
+  140  git config --global --list
+  141  cd desktop/sena_df/santiago/git/git_ejemplos/rap_y_yerbas/granuggio
+  142  git commit
+  143  git status
+  144  git commit
+  145  cd ..
+  146  cd ..
+  147  cd ..
+  148  cd ..
+  149  cd ..
+  150  cd ..
+  151  cd ..
+  152  cd ..
+  153  xxx
+  154  [200~
+  155  [200~
+  156  git switch master
+  157  git checkout master
+  158  cd ..
+  159  clear
+  160  cd documents
+  161  cd sena_df
+  162  clear
+  163  cd ..
+  164  cd ..
+  165  cd ..
+  166  clear
+  167  cd desktop
+  168  cd sena_df
+  169  clear
+  170  cd desktop
+  171  ls
+  172  cd users
+  173  /c/users
+  174  cd Desktop
+  175  cd Desktop/
+  176  ls
+  177  cd usr
+  178  ls
+  179  cd ..
+  180  ls
+  181  cd ..
+  182  ls
+  183  cd c:/
+  184  ls
+  185  cd Users/
+  186  ls
+  187  cd pabon/
+  188  PWD
+  189  CLEAR
+  190  LS
+  191  cd documents
+  192  cd sena_df
+  193  cd santiago
+  194  cd git
+  195  cd git_ejemplos
+  196  git checkout
+  197  git init
+  198  git commit
+  199  C:/
+  200  /c:/
+  201  c:/
+  202  c:/
+  203  cd documents
+  204  cd sena_df
+  205  cd santiago
+  206  cd git
+  207  cd git_ejemplos
+  208  clear
+  209  git log
+  210  git log --oneline
+  211  cd granuggio
+  212  git log
+  213  gir checkout
+  214  git checkout
+  215  git log
+  216  git log
+  217  cd rap_y_yerbas
+  218  cd granuggio
+  219  git commit
+  220  /documents/sena_df/santiago/git/git_ejemplos
+  221  cd documents
+  222  sena_df/santiago/git/git_ejemplos
+  223  cd sena_df
+  224  cd santiago
+  225  cd git
+  226  cd git_ejemplos
+  227  cd granuggio
+  228  cd rap_y_yerbas
+  229  cd granuggio
+  230  git add colombia_add.txt
+  231  git add colombia_gold.txt
+  232  git status
+  233  git commti
+  234  git commit
+  235  cd documents/sena_df/santiago/git/git_ejemplos
+  236  git config --global core.editor "code --wait"
+  237  cd rap_y_yerbas
+  238  cd granuggio
+  239  git commit
+  240  qqq
+  241  git show
+  242  git commit
+  243  git commit
+  244  git show
+  245  git log
+  246  git add
+  247  git blame colombia_gold.txt
+  248  git add colombia_gold.txt 
+  249  git status
+  250  git colombia_gold.txt
+  251  git add . 
+  252  git status
+  253  git commit -m "modifique las 2 canciones"
+  254  git status
+  255  cd ..
+  256  cd ..
+  257  cd ..
+  258  cd git_ejemplos/
+  259  git status
+  260  git commit
+  261  git log
+  262  cd granuggio/
+  263  cd ..
+  264  cd granuggio/
+  265  cd rap_y_yerbas
+  266  cd rap_y_yerbas/
+  267  cd git_ejemplos
+  268  git rap_y_yerbas
+  269  cd rap_y_yerbas
+  270  git commit
+  271  cd ..
+  272  cd rap_y_yerbas
+  273  cd granuggio/
+  274  git commit
+  275  git status
+  276  git commit -a
+  277  git status
+  278  git add circulo_vicioso.txt
+  279  git status
+  280  cd ..
+  281  git status
+  282  cd ..
+  283  git status
+  284  cd rap_y_yerbas
+  285  git commit -m "añadi la 5 estrofa"
+  286  git commit -a
+  287  git status
+  288  git log
+  289  git commit -a
+  290  git log
+  291  git commit -a
+  292  git log
+  293  blame circulo_vicioso.txt
+  294  git blame circulo_vicioso.txt
+  295  git blame circulo_vicioso.txt
+  296  git oneline
+  297  git status
+  298  clear
+  299  git branch
+  300  git branch 
+  301  git branch
+  302  git switch  rama-mateo-mbappe
+  303  git status
+  304  git commit -a -m "borre todo hp"
+  305  git switch  master
+  306  git switch  rama-mateo-mbappe
+  307  git switch master
+  308  git switch  rama-mateo-mbappe
+  309  git switch master
+  310  git switch  rama-mateo-mbappe
+  311  git commit -a -m "videos educativos"
+  312  cd granuggio
+  313  git commit -a -m "videos educativos"
+  314  git status
+  315  git commit -a -m "videos educativos"
+  316  git add
+  317  git add .
+  318  git status
+  319  git add .
+  320  git status
+  321  git commit -a -m "videos educativos"
+  322  git switch master
+  323  git switch  rama-mateo-mbappe
+  324  git switch master
+  325  cd C:/
+  326  [200~
+  327  cd documents/sena_df/santiago/git/git_ejemplos
+  328  cd documents
+  329  cd pabon
+  330  cd C:/
+  331  documents
+  332  cd documents/sena_df/santiago/git/git_ejemplos 
+  333  cd ~/documents/sena_df/santiago/git/git_ejemplos
+  334  git remote add origin https://github.com/mateo12-developer/clases-git.git
+  335  git branch -M main
+  336  git push -u origin main
+  337  git push origin main --force
+  338  git remote -v
+  339  cd victor
+  340  cd ..
+  341  mkdir -p gimnasio/docs/src/
+  342  touch gimansio/README.md
+  343  touch gimnasio/README.md
+  344  touch gimnasio/.gitignore
+  345  touch docs/idea.md
+  346  touch gimnasio/docs/idea.md
+  347  touch gimnasio/docs/estructura.txt/historial.txt
+  348  touch gimnasio/docs/estructura.txt
+  349  touch gimnasio/docs/historial.txt
+  350  touch gimnasio/docs/src/app.py
+  351  mkdir docs
+  352  cd gimnasio
+  353  mkdir -p docs/src/
+  354  mkdir src
+  355  touch docs/idea.md
+  356  touch docs/esrtructura.txt
+  357  touch docs/historial.txt
+  358  touch src/app.py
+  359  echo  "Nombre de mi app: TrainBoost" > README.md
+  360  echo  ""Quiero ayudar a las personas que tienen dificultades para encontrar rutinas de gimnasio efectivas y adaptadas a sus necesidades." > README.md
+
+  361  git init
+  362  echo  "Quiero ayudar a las personas que tienen dificultades para encontrar rutinas de gimnasio efectivas y adaptadas a sus necesidades." > README.md
+  363  echo  ""Quiero ayudar a las personas que tienen dificultades para encontrar rutinas de gimnasio efectivas y adaptadas a sus necesidades." > README.md
+
+  364  echo  ""Quiero ayudar a las personas que tienen dificultades para encontrar rutinas de gimnasio efectivas y adaptadas a sus necesidades." > README.md
+
+  365  echo  "Quiero ayudar a las personas que tienen dificultades para encontrar rutinas de gimnasio efectivas y adaptadas a sus necesidades." > README.md
+  366  echo  "Nombre de mi app: TrainBoost" > README.md
+  367  echo  "Quiero ayudar a las personas que tienen dificultades para encontrar rutinas de gimnasio efectivas y adaptadas a sus necesidades." >> README.md
+  368  echo "Mateo Pabon Bedoya" >> README.md 
+  369  echo "El problema lo tienen principalmente personas que quieren entrenar en el gimnasio pero no saben cómo estructurar una rutina adecuada.
+
+📌 Quién tiene el problema:
+
+Principiantes que recién empiezan en el gimnasio.
+
+Personas que entrenan hace tiempo pero no ven resultados claros.
+
+Quienes buscan rutinas específicas (por ejemplo, para bajar de peso, ganar músculo o mejorar resistencia) y no saben cómo adaptarlas.
+
+📋 Qué información necesitan registrar:
+
+Objetivo principal: perder grasa, ganar masa muscular, tonificar, mejorar rendimiento.
+
+Nivel de experiencia: principiante, intermedio, avanzado.
+
+Disponibilidad de tiempo: cuántos días a la semana y cuánto tiempo por sesión.
+
+Condiciones físicas o limitaciones: lesiones, problemas de salud, restricciones médicas.
+
+Preferencias personales: tipo de ejercicios que disfrutan (pesas, máquinas, cardio, funcional).
+
+Progreso medible: peso, repeticiones, cargas, medidas corporales.
+
+De esta forma, se puede diseñar una rutina que realmente se ajuste a cada persona en lugar de usar planes genéricos." > idea.md
+  370  cd docs
+  371  echo "El problema lo tienen principalmente personas que quieren entrenar en el gimnasio pero no saben cómo estructurar una rutina adecuada.
+
+📌 Quién tiene el problema:
+
+Principiantes que recién empiezan en el gimnasio.
+
+Personas que entrenan hace tiempo pero no ven resultados claros.
+
+Quienes buscan rutinas específicas (por ejemplo, para bajar de peso, ganar músculo o mejorar resistencia) y no saben cómo adaptarlas.
+
+📋 Qué información necesitan registrar:
+
+Objetivo principal: perder grasa, ganar masa muscular, tonificar, mejorar rendimiento.
+
+Nivel de experiencia: principiante, intermedio, avanzado.
+
+Disponibilidad de tiempo: cuántos días a la semana y cuánto tiempo por sesión.
+
+Condiciones físicas o limitaciones: lesiones, problemas de salud, restricciones médicas.
+
+Preferencias personales: tipo de ejercicios que disfrutan (pesas, máquinas, cardio, funcional).
+
+Progreso medible: peso, repeticiones, cargas, medidas corporales.
+
+De esta forma, se puede diseñar una rutina que realmente se ajuste a cada persona en lugar de usar planes genéricos." > idea.md
+  372  cd ..
+  373  cd src
+  374  echo "aqui empieza mi app" > app.py
+  375  cd ..
+  376  cd src
+  377  echo "Aquí empieza mi app" > app.py
+  378  echo "#Aquí empieza mi app" > app.py
+  379  cd ..
+  380  echo "__pycache__/" > .gitignore
+  381  echo ".venv/" >> .gitignore
+  382  ls -R docs/estructura.txt
+  383  ls -R docs/estructura.txt
+  384  ls -R > docs/estructura.txt
+  385  history > docs/historial.txt 
