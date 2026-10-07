@@ -434,3 +434,11 @@ De esta forma, se puede diseñar una rutina que realmente se ajuste a cada perso
   383  ls -R docs/estructura.txt
   384  ls -R > docs/estructura.txt
   385  history > docs/historial.txt 
+  386  git add .
+  387  git commit -m "ya cree la estructura de carpetas, añadi texto a los archuvos de ggimnasio,docs y src. listo para subir a el repositorio" 
+  388* git push -u origin main
+ 
+  389  git remote add origin https://github.com/mateo12-developer/Victor.git
+  390  git push -u oirigin main
+  391  git push -u origin main
+  392  history > docs/historial.txt 
