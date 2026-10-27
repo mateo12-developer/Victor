@@ -11,8 +11,8 @@
 #   4. Súbelo a GitHub con el commit:
 #        feat: ejercicios del tema 02
 #
-# Nombre completo:
-# Mi app se llama:
+# Nombre completo: Trainboost
+# Mi app se llama: mateo pabon bedoya
 # =============================================================
 
 
@@ -29,15 +29,15 @@
 
 # Tu código aquí:
 
-# dinero = int(input("¿Cuánto dinero tienes?: "))
-# costo = int(input("¿Cuánto cuesta lo que quieres comprar?: "))
+dinero = int(input("¿Cuánto dinero tienes?: "))
+costo = int(input("¿Cuánto cuesta lo que quieres comprar?: "))
 
-# if dinero >= costo: 
-#     print("compra aceptada")
-#     print(f"te quedan {dinero - costo:,.0f}")
-# else:
-#     print(f"te faltan {costo - dinero:,.0f}")
-#     print()
+if dinero >= costo: 
+    print("compra aceptada")
+    print(f"te quedan {dinero - costo:,.0f}")
+else:
+    print(f"te faltan {costo - dinero:,.0f}")
+    print()
 
 
 
@@ -60,16 +60,16 @@
 
 # Tu código aquí:
 
-# minutos = int(input("cuantos minutos entrenas a la semana: "))
+minutos = int(input("cuantos minutos entrenas a la semana: "))
 
-# if minutos == 0:
-#     print("Sin actividad: ¡empieza hoy!")
-# elif minutos >= 1 and minutos <= 149:
-#     print("Nivel principiante")
-# elif minutos >= 150 and minutos <= 299:
-#     print("Nivel activo")
-# else:
-#     print("Nivel atleta")
+if minutos == 0:
+    print("Sin actividad: ¡empieza hoy!")
+elif minutos >= 1 and minutos <= 149:
+    print("Nivel principiante")
+elif minutos >= 150 and minutos <= 299:
+    print("Nivel activo")
+else:
+    print("Nivel atleta")
 
 
 
@@ -90,15 +90,15 @@
 
 # Tu código aquí:
 
-# dia = input("Día de la cita : ").lower()
-# hora = int(input("Hora de la cita: "))
+dia = input("Día de la cita : ").lower()
+hora = int(input("Hora de la cita: "))
 
-# if dia == "domingo":
-#     print("No atendemos los domingos")
-# elif hora > 8 and hora < 19:
-#     print("Fuera del horario de antencion")
-# else:
-#     print("Cita disponible")
+if dia == "domingo":
+    print("No atendemos los domingos")
+elif hora > 8 and hora < 19:
+    print("Fuera del horario de antencion")
+else:
+    print("Cita disponible")
 
 
 
@@ -115,12 +115,12 @@
 #       print("Clave incorrecta")
 
 # Tu código corregido aquí:
-# clave = input("Clave: ")
-# if clave == "1234":
-#  print("Bienvenido")
-# else:
-#   print("Clave incorrecta")
-#   print()
+clave = input("Clave: ")
+if clave == "1234":
+ print("Bienvenido")
+else:
+  print("Clave incorrecta")
+  print()
 
 
 
