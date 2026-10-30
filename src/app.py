@@ -18,12 +18,17 @@ print("¡Bienvenido a Train Boost,", nombre, "!")
 print("Vamos a trabajar para alcanzar tu objetivo.")
 print("==============================")
 
+
+entrenamientos = []
+
 while True:
     print("\n========== MENÚ ==========")
     print("1. Ver mis datos")
     print("2. Calcular IMC")
     print("3. Ver mi objetivo")
-    print("4. Salir")
+    print("4. Agregar entrenamiento")
+    print("5. Ver mis entrenamientos")
+    print("6. Salir")
     print("==========================")
 
     opcion = input("Elige una opción: ")
@@ -36,7 +41,7 @@ while True:
         print("Estatura:", estatura, "cm")
         print("Nivel:", nivel)
         print("Días para entrenar:", dias)
-        print("Lugar de entrenamiento:", lugar)
+        print("Lugar:", lugar)
 
     elif opcion == "2":
         if peso > 0 and estatura > 0:
@@ -49,6 +54,22 @@ while True:
         print("Tu objetivo es:", objetivo)
 
     elif opcion == "4":
+        entrenamiento = input("¿Qué entrenamiento realizaste? ")
+        entrenamientos.append(entrenamiento)
+        print("¡Entrenamiento guardado correctamente!")
+
+    elif opcion == "5":
+        if len(entrenamientos) == 0:
+            print("Todavía no hay registros.")
+        else:
+            print("\n--- Mis entrenamientos ---")
+
+            for i in range(len(entrenamientos)):
+                print(f"{i + 1}. {entrenamientos[i]}")
+
+            print("Total de entrenamientos:", len(entrenamientos))
+
+    elif opcion == "6":
         print("¡Gracias por usar Train Boost!")
         break
 
